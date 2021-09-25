@@ -1,9 +1,5 @@
 # react-lab-library
 
-React Lab Library
-
-# react-lab-library
-
 This React library is just a collection of UI components.
 
 ## Install
