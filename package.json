@@ -1,6 +1,6 @@
 {
   "name": "react-lab-library",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "React UI Library",
   "main": "app.js",
   "scripts": {
