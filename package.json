@@ -1,0 +1,30 @@
+{
+  "name": "react-lab-library",
+  "version": "1.0.0",
+  "description": "React UI Library",
+  "main": "app.js",
+  "scripts": {
+    "test": "ashis"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashisdeveloper/react-lab-library.git"
+  },
+  "keywords": [
+    "react-ui"
+  ],
+  "author": "Ashis Kumar <srimanashis@gmail.com> (https://www.softtechlab.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ashisdeveloper/react-lab-library/issues"
+  },
+  "homepage": "https://github.com/ashisdeveloper/react-lab-library#readme",
+  "engines": {
+    "node": ">= 8.0.0"
+  },
+  "dependencies": {
+    "classnames": "^2.3.1",
+    "react-bootstrap": "^1.6.4",
+    "react-icons": "^4.2.0"
+  }
+}
